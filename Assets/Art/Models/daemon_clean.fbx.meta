@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 72365678b6220524aa2a0b10c30f073c
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Demon:chin
+    100004: Demon:curve1
+    100006: Demon:curve2
+    100008: Demon:curve3
+    100010: Demon:curve4
+    100012: Demon:head
+    100014: Demon:imagePlane1
+    100016: Demon:imagePlane2
+    100018: Demon:L_Elbow
+    100020: Demon:L_fingers
+    100022: Demon:L_foot
+    100024: Demon:L_hand
+    100026: Demon:L_Hip
+    100028: Demon:L_knee
+    100030: Demon:L_knee_bend
+    100032: Demon:L_rib
+    100034: Demon:L_shoulder
+    100036: Demon:L_toes
+    100038: Demon:L_wrist
+    100040: Demon:neck
+    100042: Demon:pCube3
+    100044: Demon:polySurface1
+    100046: Demon:polySurface2
+    100048: Demon:polySurface2 1
+    100050: Demon:pSphere12
+    100052: Demon:pSphere13
+    100054: Demon:pSphere14
+    100056: Demon:pSphere15
+    100058: Demon:R_elbow
+    100060: Demon:R_fingers
+    100062: Demon:R_foot
+    100064: Demon:R_hand
+    100066: Demon:R_hip
+    100068: Demon:R_knee
+    100070: Demon:R_knee_bend
+    100072: Demon:R_rib
+    100074: Demon:R_shoulder
+    100076: Demon:R_toes
+    100078: Demon:R_wrist
+    100080: Demon:Spine_2
+    100082: Demon:Spine_3
+    100084: Demon:Spine_base
+    100086: Demon:transform1
+    100088: Demon:transform2
+    100090: Demon:transform5
+    100092: Demon:transform6
+    100094: Demon:transform7
+    100096: Demon:Weist
+    400000: //RootNode
+    400002: Demon:chin
+    400004: Demon:curve1
+    400006: Demon:curve2
+    400008: Demon:curve3
+    400010: Demon:curve4
+    400012: Demon:head
+    400014: Demon:imagePlane1
+    400016: Demon:imagePlane2
+    400018: Demon:L_Elbow
+    400020: Demon:L_fingers
+    400022: Demon:L_foot
+    400024: Demon:L_hand
+    400026: Demon:L_Hip
+    400028: Demon:L_knee
+    400030: Demon:L_knee_bend
+    400032: Demon:L_rib
+    400034: Demon:L_shoulder
+    400036: Demon:L_toes
+    400038: Demon:L_wrist
+    400040: Demon:neck
+    400042: Demon:pCube3
+    400044: Demon:polySurface1
+    400046: Demon:polySurface2
+    400048: Demon:polySurface2 1
+    400050: Demon:pSphere12
+    400052: Demon:pSphere13
+    400054: Demon:pSphere14
+    400056: Demon:pSphere15
+    400058: Demon:R_elbow
+    400060: Demon:R_fingers
+    400062: Demon:R_foot
+    400064: Demon:R_hand
+    400066: Demon:R_hip
+    400068: Demon:R_knee
+    400070: Demon:R_knee_bend
+    400072: Demon:R_rib
+    400074: Demon:R_shoulder
+    400076: Demon:R_toes
+    400078: Demon:R_wrist
+    400080: Demon:Spine_2
+    400082: Demon:Spine_3
+    400084: Demon:Spine_base
+    400086: Demon:transform1
+    400088: Demon:transform2
+    400090: Demon:transform5
+    400092: Demon:transform6
+    400094: Demon:transform7
+    400096: Demon:Weist
+    2300000: Demon:pSphere15
+    3300000: Demon:pSphere15
+    4300000: Demon:pCube3
+    4300002: Demon:polySurface2
+    4300004: Demon:pSphere15
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Demon:pCube3
+    13700002: Demon:polySurface2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0.002
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

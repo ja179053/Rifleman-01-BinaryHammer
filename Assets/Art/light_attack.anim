@@ -1,0 +1,4118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: light_attack
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.35087949, y: .804218292, z: -.138244227, w: .459100872}
+        inSlope: {x: -.152701885, y: -.0584290773, z: -.0610969625, w: -.0436199456}
+        outSlope: {x: -.152701885, y: -.0584290773, z: -.0610969625, w: -.0436199456}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: -.432532698, y: .771297812, z: -.171459615, w: .434300423}
+        inSlope: {x: -.107236117, y: -.0487539619, z: -.0454409011, w: -.0373867638}
+        outSlope: {x: -.107236117, y: -.0487539619, z: -.0454409011, w: -.0373867638}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: -.403116047, y: .785953879, z: -.152566254, w: .443280488}
+        inSlope: {x: .173575431, y: .0821478516, z: .105424784, w: .0484199673}
+        outSlope: {x: .173575431, y: .0821478516, z: .105424784, w: .0484199673}
+        tangentMode: 0
+      - time: .75000006
+        value: {x: -.379779518, y: .795331419, z: -.14309369, w: .450266182}
+        inSlope: {x: .457683742, y: .157226846, z: .116117679, w: .141623899}
+        outSlope: {x: .457683742, y: .157226846, z: .116117679, w: .141623899}
+        tangentMode: 0
+      - time: .833333373
+        value: {x: -.346344948, y: .805913448, z: -.136442766, w: .460360765}
+        inSlope: {x: .270596862, y: .0817908868, z: .0482500568, w: .0786974058}
+        outSlope: {x: .270596862, y: .0817908868, z: .0482500568, w: .0786974058}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .161454171, y: .229326874, z: .488772839, w: .826101005}
+        inSlope: {x: .660431981, y: -.403422683, z: -.26540637, w: .127022266}
+        outSlope: {x: .660431981, y: -.403422683, z: -.26540637, w: .127022266}
+        tangentMode: 3
+      - time: .125
+        value: {x: .253542483, y: .169937775, z: .452891231, w: .837691426}
+        inSlope: {x: .0621410012, y: -.0422134623, z: -.020641543, w: .00260209758}
+        outSlope: {x: .0621410012, y: -.0422134623, z: -.020641543, w: .00260209758}
+        tangentMode: 3
+      - time: .25
+        value: {x: .18187435, y: .216643542, z: .481561512, w: .829509437}
+        inSlope: {x: -.691476345, y: .429280519, z: .274964392, w: -.115371495}
+        outSlope: {x: -.691476345, y: .429280519, z: .274964392, w: -.115371495}
+        tangentMode: 3
+      - time: .50000006
+        value: {x: .113628857, y: .257847756, z: .505991936, w: .815214872}
+        inSlope: {x: .0303619988, y: -.0218017213, z: -.00943494402, w: .00847936235}
+        outSlope: {x: .0303619988, y: -.0218017213, z: -.00943494402, w: .00847936235}
+        tangentMode: 3
+      - time: .791666687
+        value: {x: .158378676, y: .230889902, z: .490829647, w: .825040817}
+        inSlope: {x: .342465013, y: -.188073665, z: -.135966897, w: .0658285692}
+        outSlope: {x: .342465013, y: -.188073665, z: -.135966897, w: .0658285692}
+        tangentMode: 3
+      - time: .958333433
+        value: {x: .251083523, y: .176925957, z: .445944607, w: .840706646}
+        inSlope: {x: .504927993, y: -.322086602, z: -.254586875, w: .0552834943}
+        outSlope: {x: .504927993, y: -.322086602, z: -.254586875, w: .0552834943}
+        tangentMode: 3
+      - time: 1.125
+        value: {x: .259432405, y: .171607018, z: .440848947, w: .841960847}
+        inSlope: {x: -.348098308, y: .229658648, z: .158027321, w: -.0241127256}
+        outSlope: {x: -.348098308, y: .229658648, z: .158027321, w: -.0241127256}
+        tangentMode: 3
+      - time: 1.375
+        value: {x: .148801863, y: .237162352, z: .493522435, w: .823436499}
+        inSlope: {x: -.202696502, y: .107423648, z: .10044989, w: -.0530033633}
+        outSlope: {x: -.202696502, y: .107423648, z: .10044989, w: -.0530033633}
+        tangentMode: 3
+      - time: 1.41666663
+        value: {x: .144206658, y: .239564881, z: .495809197, w: .822183907}
+        inSlope: {x: -.110285029, y: .0576607548, z: .0548823401, w: -.0300622266}
+        outSlope: {x: -.110285029, y: .0576607548, z: .0548823401, w: -.0300622266}
+        tangentMode: 3
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .496992469, y: .361689985, z: -.107267678, w: .781536639}
+        inSlope: {x: -.193935871, y: .21292448, z: -.205173731, w: -.000554084778}
+        outSlope: {x: -.193935871, y: .21292448, z: -.205173731, w: -.000554084778}
+        tangentMode: 0
+      - time: .0833333358
+        value: {x: .470820516, y: .390063226, z: -.13411878, w: .779865921}
+        inSlope: {x: -.44868809, y: .481516898, z: -.44895041, w: -.0504248068}
+        outSlope: {x: -.44868809, y: .481516898, z: -.44895041, w: -.0504248068}
+        tangentMode: 1065353216
+      - time: .291666657
+        value: {x: .366447955, y: .498547226, z: -.230476186, w: .751030803}
+        inSlope: {x: -.348967522, y: .352200836, z: -.298544347, w: -.151325941}
+        outSlope: {x: -.348967522, y: .352200836, z: -.298544347, w: -.151325941}
+        tangentMode: 0
+      - time: .541666687
+        value: {x: .393259883, y: .469829291, z: -.212207869, w: .76129818}
+        inSlope: {x: .426563591, y: -.447214812, z: .331412911, w: .146515161}
+        outSlope: {x: .426563591, y: -.447214812, z: .331412911, w: .146515161}
+        tangentMode: 1065353216
+      - time: .791666687
+        value: {x: .485183358, y: .372503936, z: -.12925522, w: .780468464}
+        inSlope: {x: .137961805, y: -.147196472, z: .182669312, w: .015686281}
+        outSlope: {x: .137961805, y: -.147196472, z: .182669312, w: .015686281}
+        tangentMode: 1051678611
+      - time: 1.29166663
+        value: {x: .503023505, y: .35505417, z: -.100854047, w: .781493664}
+        inSlope: {x: .000347614608, y: .000570774602, z: .000921429077, w: -.000364780775}
+        outSlope: {x: .000347614608, y: .000570774602, z: .000921429077, w: -.000364780775}
+        tangentMode: -1091725914
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .555175662, y: .669413805, z: .0420629084, w: -.492373765}
+        inSlope: {x: -.405112296, y: .150727287, z: -.37808612, w: -.295009404}
+        outSlope: {x: -.405112296, y: .150727287, z: -.37808612, w: -.295009404}
+        tangentMode: 0
+      - time: .0416666642
+        value: {x: .529598117, y: .678107738, z: .0182905272, w: -.509275138}
+        inSlope: {x: -.872195005, y: .277215242, z: -.808350205, w: -.536281943}
+        outSlope: {x: -.872195005, y: .277215242, z: -.808350205, w: -.536281943}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: .354998916, y: .716476917, z: -.142677948, w: -.583334923}
+        inSlope: {x: -1.79233146, y: .21030736, z: -1.66039324, w: -.407677174}
+        outSlope: {x: -1.79233146, y: .21030736, z: -1.66039324, w: -.407677174}
+        tangentMode: 0
+      - time: .291666657
+        value: {x: .117029086, y: .716216683, z: -.370521247, w: -.579699814}
+        inSlope: {x: -1.77886653, y: -.213562444, z: -1.81408548, w: .524919629}
+        outSlope: {x: -1.77886653, y: -.213562444, z: -1.81408548, w: .524919629}
+        tangentMode: 0
+      - time: .375
+        value: {x: -.0276840236, y: .684001625, z: -.523126006, w: -.507655919}
+        inSlope: {x: -1.8927865, y: -.699078977, z: -2.00437689, w: 1.29924631}
+        outSlope: {x: -1.8927865, y: -.699078977, z: -2.00437689, w: 1.29924631}
+        tangentMode: 1065353216
+      - time: .416666657
+        value: {x: -.110668369, y: .64661473, z: -.611245394, w: -.442742556}
+        inSlope: {x: -1.86198235, y: -1.06664991, z: -2.09012723, w: 1.82936001}
+        outSlope: {x: -1.86198235, y: -1.06664991, z: -2.09012723, w: 1.82936001}
+        tangentMode: 1065353216
+      - time: .458333343
+        value: {x: -.182849228, y: .595114112, z: -.697303295, w: -.355209231}
+        inSlope: {x: -1.41534472, y: -1.31530237, z: -1.92687082, w: 2.28526831}
+        outSlope: {x: -1.41534472, y: -1.31530237, z: -1.92687082, w: 2.28526831}
+        tangentMode: 0
+      - time: .541666687
+        value: {x: -.239283577, y: .483796656, z: -.828849316, w: -.147285327}
+        inSlope: {x: .173566729, y: -1.06350267, z: -1.13138986, w: 2.37429667}
+        outSlope: {x: .173566729, y: -1.06350267, z: -1.13138986, w: 2.37429667}
+        tangentMode: 1062557014
+      - time: .583333373
+        value: {x: -.214149892, y: .448380947, z: -.86610049, w: -.0544454642}
+        inSlope: {x: .973997474, y: -.501111865, z: -.647404134, w: 1.96339667}
+        outSlope: {x: .973997474, y: -.501111865, z: -.647404134, w: 1.96339667}
+        tangentMode: 1065353216
+      - time: .62500006
+        value: {x: -.158117086, y: .442037314, z: -.882799685, w: .0163311288}
+        inSlope: {x: 3.00141907, y: .5254547, z: .0424028337, w: 1.99254179}
+        outSlope: {x: 3.00141907, y: .5254547, z: .0424028337, w: 1.99254179}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: .035968218, y: .492168784, z: -.862566948, w: .111599624}
+        inSlope: {x: 4.60976887, y: 1.73566496, z: 1.68046141, w: 2.56734705}
+        outSlope: {x: 4.60976887, y: 1.73566496, z: 1.68046141, w: 2.56734705}
+        tangentMode: 0
+      - time: .708333373
+        value: {x: .226030216, y: .586676061, z: -.742761195, w: .230276689}
+        inSlope: {x: 1.66343975, y: 2.47483945, z: 2.32001376, w: .869479656}
+        outSlope: {x: 1.66343975, y: 2.47483945, z: 2.32001376, w: .869479656}
+        tangentMode: 1065353216
+      - time: .75000006
+        value: {x: .174588263, y: .698405504, z: -.669232368, w: .184056297}
+        inSlope: {x: -.238150358, y: 2.37405205, z: 1.89521432, w: -2.73927689}
+        outSlope: {x: -.238150358, y: 2.37405205, z: 1.89521432, w: -2.73927689}
+        tangentMode: 0
+      - time: .791666687
+        value: {x: .206184298, y: .784513712, z: -.584826708, w: .0020037652}
+        inSlope: {x: 2.31529093, y: 1.31562507, z: 2.85926437, w: -4.15347052}
+        outSlope: {x: 2.31529093, y: 1.31562507, z: 2.85926437, w: -4.15347052}
+        tangentMode: 0
+      - time: .833333373
+        value: {x: .367529213, y: .808040857, z: -.430960357, w: -.162066147}
+        inSlope: {x: 3.35236406, y: .079521358, z: 3.47798872, w: -2.74246669}
+        outSlope: {x: 3.35236406, y: .079521358, z: 3.47798872, w: -2.74246669}
+        tangentMode: 1065353216
+      - time: .87500006
+        value: {x: .485548109, y: .791140497, z: -.294994175, w: -.226535231}
+        inSlope: {x: 1.70156646, y: -.238012016, z: 2.57474041, w: -1.2860527}
+        outSlope: {x: 1.70156646, y: -.238012016, z: 2.57474041, w: -1.2860527}
+        tangentMode: 1065353216
+      - time: .916666687
+        value: {x: .509326458, y: .788206518, z: -.216398671, w: -.26923719}
+        inSlope: {x: .533482909, y: -.20191355, z: 1.78202498, w: -1.03955388}
+        outSlope: {x: .533482909, y: -.20191355, z: 1.78202498, w: -1.03955388}
+        tangentMode: 0
+      - time: 1.16666663
+        value: {x: .567623913, y: .669740558, z: .0477933139, w: -.476410121}
+        inSlope: {x: .00523854233, y: -.229197308, z: .274810165, w: -.297428429}
+        outSlope: {x: .00523854233, y: -.229197308, z: .274810165, w: -.297428429}
+        tangentMode: -1092073324
+      - time: 1.20833337
+        value: {x: .567489624, y: .664661169, z: .0535778552, w: -.483022243}
+        inSlope: {x: -.0032229363, y: -.121905096, z: .138828725, w: -.158690631}
+        outSlope: {x: -.0032229363, y: -.121905096, z: .138828725, w: -.158690631}
+        tangentMode: -1090360868
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.493247002, y: -.343891501, z: -.0868979618, w: .794365227}
+        inSlope: {x: .147921309, y: -.137413487, z: -.136521354, w: .0204889756}
+        outSlope: {x: .147921309, y: -.137413487, z: -.136521354, w: .0204889756}
+        tangentMode: 0
+      - time: .208333343
+        value: {x: -.422128052, y: -.412806571, z: -.146729037, w: .793642998}
+        inSlope: {x: .517400205, y: -.518571794, z: -.400701761, w: -.0701336861}
+        outSlope: {x: .517400205, y: -.518571794, z: -.400701761, w: -.0701336861}
+        tangentMode: 0
+      - time: .50000006
+        value: {x: -.272854149, y: -.586607993, z: -.24463205, w: .722216606}
+        inSlope: {x: .345704257, y: -.55613935, z: -.178065613, w: -.379713625}
+        outSlope: {x: .345704257, y: -.55613935, z: -.178065613, w: -.379713625}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: -.249263138, y: -.661540568, z: -.250857562, w: .6612885}
+        inSlope: {x: -.0904140249, y: -.31808579, z: .123238027, w: -.305038095}
+        outSlope: {x: -.0904140249, y: -.31808579, z: .123238027, w: -.305038095}
+        tangentMode: 0
+      - time: .708333373
+        value: {x: -.255619109, y: -.67324388, z: -.243843302, w: .649570644}
+        inSlope: {x: -3.0006969, y: .573827922, z: 3.91848254, w: -.6529724}
+        outSlope: {x: -3.0006969, y: .573827922, z: 3.91848254, w: -.6529724}
+        tangentMode: 1065353216
+      - time: .75000006
+        value: {x: -.499321342, y: -.61372155, z: .0756828114, w: .606874108}
+        inSlope: {x: -3.30936337, y: 1.91998756, z: 3.36970162, w: .280251801}
+        outSlope: {x: -3.30936337, y: 1.91998756, z: 3.36970162, w: .280251801}
+        tangentMode: 0
+      - time: .791666687
+        value: {x: -.531399488, y: -.513244987, z: .0369653665, w: .672924876}
+        inSlope: {x: -.503133357, y: 3.70337439, z: -2.09834957, w: 2.04454947}
+        outSlope: {x: -.503133357, y: 3.70337439, z: -2.09834957, w: 2.04454947}
+        tangentMode: 0
+      - time: .833333373
+        value: {x: -.541249096, y: -.305107027, z: -.0991796777, w: .777253211}
+        inSlope: {x: -.335474789, y: 2.42255259, z: -1.50081694, w: 1.08280087}
+        outSlope: {x: -.335474789, y: 2.42255259, z: -1.50081694, w: 1.08280087}
+        tangentMode: 1065353216
+      - time: .87500006
+        value: {x: -.559355736, y: -.311365515, z: -.0881027728, w: .763158321}
+        inSlope: {x: -.50828594, y: -.287728965, z: .528658748, w: -.443241298}
+        outSlope: {x: -.50828594, y: -.287728965, z: .528658748, w: -.443241298}
+        tangentMode: 1065353216
+      - time: .958333433
+        value: {x: -.604473829, y: -.35147512, z: -.0141056413, w: .714757144}
+        inSlope: {x: -.40153423, y: -.500904024, z: .911193907, w: -.558853269}
+        outSlope: {x: -.40153423, y: -.500904024, z: .911193907, w: -.558853269}
+        tangentMode: 470417444
+      - time: 1
+        value: {x: -.617067456, y: -.370826453, z: .0208080579, w: .693745315}
+        inSlope: {x: -.199560836, y: -.330901593, z: .595754862, w: -.356536001}
+        outSlope: {x: -.199560836, y: -.330901593, z: .595754862, w: -.356536001}
+        tangentMode: 1065353216
+      - time: 1.04166663
+        value: {x: -.621103883, y: -.379050225, z: .0355405472, w: .685045838}
+        inSlope: {x: .602100968, y: .177220434, z: -.530927837, w: .585057735}
+        outSlope: {x: .602100968, y: .177220434, z: -.530927837, w: .585057735}
+        tangentMode: 0
+      - time: 1.08333337
+        value: {x: -.566892266, y: -.356058031, z: -.0234360583, w: .742500246}
+        inSlope: {x: 1.48175657, y: .470601439, z: -1.42052579, w: 1.30431747}
+        outSlope: {x: 1.48175657, y: .470601439, z: -1.42052579, w: 1.30431747}
+        tangentMode: 0
+      - time: 1.125
+        value: {x: -.497624129, y: -.339833409, z: -.0828366652, w: .793739021}
+        inSlope: {x: 1.66243684, y: .389391303, z: -1.42561591, w: 1.2297318}
+        outSlope: {x: 1.66243684, y: .389391303, z: -1.42561591, w: 1.2297318}
+        tangentMode: -1095616015
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0286383461, y: .0179762039, z: .0598298013, w: .997617066}
+        inSlope: {x: -.0721209049, y: .0489577018, z: .164227799, w: -.00957361795}
+        outSlope: {x: -.0721209049, y: .0489577018, z: .164227799, w: -.00957361795}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: -.0384043902, y: .0509776361, z: .201333418, w: .977441192}
+        inSlope: {x: -.288797796, y: .092081964, z: .565692067, w: -.132589802}
+        outSlope: {x: -.288797796, y: .092081964, z: .565692067, w: -.132589802}
+        tangentMode: 4
+      - time: .62500006
+        value: {x: -.102482244, y: .0629241988, z: .320271522, w: .939661682}
+        inSlope: {x: -.0681883618, y: .00466713263, z: .120704398, w: -.048431389}
+        outSlope: {x: -.0681883618, y: .00466713263, z: .120704398, w: -.048431389}
+        tangentMode: 0
+      - time: .75000006
+        value: {x: -.0861368105, y: .0582760945, z: .286273897, w: .952487111}
+        inSlope: {x: .359430432, y: -.115459308, z: -.762977839, w: .263367236}
+        outSlope: {x: .359430432, y: -.115459308, z: -.762977839, w: .263367236}
+        tangentMode: 1042549624
+      - time: .916666687
+        value: {x: -.0230261162, y: .0263438113, z: .135575399, w: .990149021}
+        inSlope: {x: .238964587, y: -.189328745, z: -.702609539, w: .109343983}
+        outSlope: {x: .238964587, y: -.189328745, z: -.702609539, w: .109343983}
+        tangentMode: 1055158656
+      - time: 1.125
+        value: {x: .000829663768, y: -.00214149849, z: .039670039, w: .999210238}
+        inSlope: {x: .0227034595, y: -.0215659905, z: -.0697764829, w: .00293827336}
+        outSlope: {x: .0227034595, y: -.0215659905, z: -.0697764829, w: .00293827336}
+        tangentMode: 0
+      - time: 1.41666663
+        value: {x: .00468351319, y: -.00203644601, z: .0389272422, w: .999233007}
+        inSlope: {x: .00961726811, y: .00888156984, z: .0224057343, w: -.000995953917}
+        outSlope: {x: .00961726811, y: .00888156984, z: .0224057343, w: -.000995953917}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0689595863, y: .868684351, z: -.0384292789, w: .48903513}
+        inSlope: {x: -.102207728, y: -.0116558084, z: -.0645133927, w: .000591516553}
+        outSlope: {x: -.102207728, y: -.0116558084, z: -.0645133927, w: .000591516553}
+        tangentMode: 3
+      - time: .208333343
+        value: {x: -.13656868, y: .858188868, z: -.0807498768, w: .488201112}
+        inSlope: {x: -.406700969, y: -.0804619715, z: -.252304643, w: -.0126882782}
+        outSlope: {x: -.406700969, y: -.0804619715, z: -.252304643, w: -.0126882782}
+        tangentMode: 3
+      - time: .416666657
+        value: {x: -.150218248, y: .855291843, z: -.0894709975, w: .487755388}
+        inSlope: {x: .374462426, y: .078962788, z: .225629359, w: .0151627045}
+        outSlope: {x: .374462426, y: .078962788, z: .225629359, w: .0151627045}
+        tangentMode: 3
+      - time: .666666687
+        value: {x: -.033187937, y: .871688485, z: -.0178879537, w: .488607973}
+        inSlope: {x: .211594626, y: .0150425527, z: .131242007, w: -.00523603242}
+        outSlope: {x: .211594626, y: .0150425527, z: .131242007, w: -.00523603242}
+        tangentMode: 3
+      - time: .87500006
+        value: {x: -.0347347744, y: .871602178, z: -.0186011642, w: .488627791}
+        inSlope: {x: -.0679788589, y: -.00443530222, z: -.0395412259, w: .00153064774}
+        outSlope: {x: -.0679788589, y: -.00443530222, z: -.0395412259, w: .00153064774}
+        tangentMode: 3
+      - time: 1.375
+        value: {x: -.0689595863, y: .868684351, z: -.0384292789, w: .48903513}
+        inSlope: {x: -.010928045, y: -.00114870176, z: -.00630829344, w: 1.35898717e-05}
+        outSlope: {x: -.010928045, y: -.00114870176, z: -.00630829344, w: 1.35898717e-05}
+        tangentMode: 3
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0318507999, y: -4.72831162e-18, z: 3.30917409e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.41666663
+        value: {x: -.0318507962, y: -4.72831162e-18, z: 3.30917388e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1054979828
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0740553886, y: -1.87350139e-17, z: 8.83191907e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.29166663
+        value: {x: -.0740553886, y: -1.87350139e-17, z: 8.83191907e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 976732172
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .011135295, y: .00410335092, z: -.0297978465}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.20833325
+        value: {x: .011135295, y: .00410335092, z: -.0297978465}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: -1096788190
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0773479864, y: -2.6090241e-17, z: -1.13474012e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.125
+        value: {x: -.0773479864, y: -2.6090241e-17, z: -1.13474012e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: -1097641674
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0285495464, y: -2.00447286e-17, z: -1.2351231e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.41666663
+        value: {x: -.0285495482, y: -2.0044727e-17, z: -1.2351231e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .000371647649, y: .0120169483, z: .00145425333}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 2139095040
+      - time: 1.375
+        value: {x: .000371647649, y: .0120169483, z: .00145425333}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .833333373
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 114927644
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.41666663
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1054979828
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.29166663
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 976732172
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.20833337
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: -1096788190
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.125
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: -1097641674
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.41666663
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 3
+      - time: 1.375
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: -1956942436
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 24
+  m_WrapMode: 1
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 1.41666663
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.35087949
+        inSlope: -.152701885
+        outSlope: -.152701885
+        tangentMode: 0
+      - time: .333333343
+        value: -.432532698
+        inSlope: -.107236117
+        outSlope: -.107236117
+        tangentMode: 0
+      - time: .666666687
+        value: -.403116047
+        inSlope: .173575431
+        outSlope: .173575431
+        tangentMode: 0
+      - time: .75000006
+        value: -.379779518
+        inSlope: .457683742
+        outSlope: .457683742
+        tangentMode: 0
+      - time: .833333373
+        value: -.346344948
+        inSlope: .270596862
+        outSlope: .270596862
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Demon:Spine_base/Demon:Weist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .804218292
+        inSlope: -.0584290773
+        outSlope: -.0584290773
+        tangentMode: 0
+      - time: .333333343
+        value: .771297812
+        inSlope: -.0487539619
+        outSlope: -.0487539619
+        tangentMode: 0
+      - time: .666666687
+        value: .785953879
+        inSlope: .0821478516
+        outSlope: .0821478516
+        tangentMode: 0
+      - time: .75000006
+        value: .795331419
+        inSlope: .157226846
+        outSlope: .157226846
+        tangentMode: 0
+      - time: .833333373
+        value: .805913448
+        inSlope: .0817908868
+        outSlope: .0817908868
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Demon:Spine_base/Demon:Weist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.138244227
+        inSlope: -.0610969625
+        outSlope: -.0610969625
+        tangentMode: 0
+      - time: .333333343
+        value: -.171459615
+        inSlope: -.0454409011
+        outSlope: -.0454409011
+        tangentMode: 0
+      - time: .666666687
+        value: -.152566254
+        inSlope: .105424784
+        outSlope: .105424784
+        tangentMode: 0
+      - time: .75000006
+        value: -.14309369
+        inSlope: .116117679
+        outSlope: .116117679
+        tangentMode: 0
+      - time: .833333373
+        value: -.136442766
+        inSlope: .0482500568
+        outSlope: .0482500568
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Demon:Spine_base/Demon:Weist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .459100872
+        inSlope: -.0436199456
+        outSlope: -.0436199456
+        tangentMode: 0
+      - time: .333333343
+        value: .434300423
+        inSlope: -.0373867638
+        outSlope: -.0373867638
+        tangentMode: 0
+      - time: .666666687
+        value: .443280488
+        inSlope: .0484199673
+        outSlope: .0484199673
+        tangentMode: 0
+      - time: .75000006
+        value: .450266182
+        inSlope: .141623899
+        outSlope: .141623899
+        tangentMode: 0
+      - time: .833333373
+        value: .460360765
+        inSlope: .0786974058
+        outSlope: .0786974058
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Demon:Spine_base/Demon:Weist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .161454171
+        inSlope: .660431981
+        outSlope: .660431981
+        tangentMode: 0
+      - time: .125
+        value: .253542483
+        inSlope: .0621410012
+        outSlope: .0621410012
+        tangentMode: 0
+      - time: .25
+        value: .18187435
+        inSlope: -.691476345
+        outSlope: -.691476345
+        tangentMode: 0
+      - time: .50000006
+        value: .113628857
+        inSlope: .0303619988
+        outSlope: .0303619988
+        tangentMode: 0
+      - time: .791666687
+        value: .158378676
+        inSlope: .342465013
+        outSlope: .342465013
+        tangentMode: 0
+      - time: .958333433
+        value: .251083523
+        inSlope: .504927993
+        outSlope: .504927993
+        tangentMode: 0
+      - time: 1.125
+        value: .259432405
+        inSlope: -.348098308
+        outSlope: -.348098308
+        tangentMode: 0
+      - time: 1.375
+        value: .148801863
+        inSlope: -.202696502
+        outSlope: -.202696502
+        tangentMode: 0
+      - time: 1.41666663
+        value: .144206658
+        inSlope: -.110285029
+        outSlope: -.110285029
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .229326874
+        inSlope: -.403422683
+        outSlope: -.403422683
+        tangentMode: 0
+      - time: .125
+        value: .169937775
+        inSlope: -.0422134623
+        outSlope: -.0422134623
+        tangentMode: 0
+      - time: .25
+        value: .216643542
+        inSlope: .429280519
+        outSlope: .429280519
+        tangentMode: 0
+      - time: .50000006
+        value: .257847756
+        inSlope: -.0218017213
+        outSlope: -.0218017213
+        tangentMode: 0
+      - time: .791666687
+        value: .230889902
+        inSlope: -.188073665
+        outSlope: -.188073665
+        tangentMode: 0
+      - time: .958333433
+        value: .176925957
+        inSlope: -.322086602
+        outSlope: -.322086602
+        tangentMode: 0
+      - time: 1.125
+        value: .171607018
+        inSlope: .229658648
+        outSlope: .229658648
+        tangentMode: 0
+      - time: 1.375
+        value: .237162352
+        inSlope: .107423648
+        outSlope: .107423648
+        tangentMode: 0
+      - time: 1.41666663
+        value: .239564881
+        inSlope: .0576607548
+        outSlope: .0576607548
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .488772839
+        inSlope: -.26540637
+        outSlope: -.26540637
+        tangentMode: 0
+      - time: .125
+        value: .452891231
+        inSlope: -.020641543
+        outSlope: -.020641543
+        tangentMode: 0
+      - time: .25
+        value: .481561512
+        inSlope: .274964392
+        outSlope: .274964392
+        tangentMode: 0
+      - time: .50000006
+        value: .505991936
+        inSlope: -.00943494402
+        outSlope: -.00943494402
+        tangentMode: 0
+      - time: .791666687
+        value: .490829647
+        inSlope: -.135966897
+        outSlope: -.135966897
+        tangentMode: 0
+      - time: .958333433
+        value: .445944607
+        inSlope: -.254586875
+        outSlope: -.254586875
+        tangentMode: 0
+      - time: 1.125
+        value: .440848947
+        inSlope: .158027321
+        outSlope: .158027321
+        tangentMode: 0
+      - time: 1.375
+        value: .493522435
+        inSlope: .10044989
+        outSlope: .10044989
+        tangentMode: 0
+      - time: 1.41666663
+        value: .495809197
+        inSlope: .0548823401
+        outSlope: .0548823401
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .826101005
+        inSlope: .127022266
+        outSlope: .127022266
+        tangentMode: 0
+      - time: .125
+        value: .837691426
+        inSlope: .00260209758
+        outSlope: .00260209758
+        tangentMode: 0
+      - time: .25
+        value: .829509437
+        inSlope: -.115371495
+        outSlope: -.115371495
+        tangentMode: 0
+      - time: .50000006
+        value: .815214872
+        inSlope: .00847936235
+        outSlope: .00847936235
+        tangentMode: 0
+      - time: .791666687
+        value: .825040817
+        inSlope: .0658285692
+        outSlope: .0658285692
+        tangentMode: 0
+      - time: .958333433
+        value: .840706646
+        inSlope: .0552834943
+        outSlope: .0552834943
+        tangentMode: 0
+      - time: 1.125
+        value: .841960847
+        inSlope: -.0241127256
+        outSlope: -.0241127256
+        tangentMode: 0
+      - time: 1.375
+        value: .823436499
+        inSlope: -.0530033633
+        outSlope: -.0530033633
+        tangentMode: 0
+      - time: 1.41666663
+        value: .822183907
+        inSlope: -.0300622266
+        outSlope: -.0300622266
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .496992469
+        inSlope: -.193935871
+        outSlope: -.193935871
+        tangentMode: 0
+      - time: .0833333358
+        value: .470820516
+        inSlope: -.44868809
+        outSlope: -.44868809
+        tangentMode: 0
+      - time: .291666657
+        value: .366447955
+        inSlope: -.348967522
+        outSlope: -.348967522
+        tangentMode: 0
+      - time: .541666687
+        value: .393259883
+        inSlope: .426563591
+        outSlope: .426563591
+        tangentMode: 0
+      - time: .791666687
+        value: .485183358
+        inSlope: .137961805
+        outSlope: .137961805
+        tangentMode: 0
+      - time: 1.29166663
+        value: .503023505
+        inSlope: .000347614608
+        outSlope: .000347614608
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .361689985
+        inSlope: .21292448
+        outSlope: .21292448
+        tangentMode: 0
+      - time: .0833333358
+        value: .390063226
+        inSlope: .481516898
+        outSlope: .481516898
+        tangentMode: 0
+      - time: .291666657
+        value: .498547226
+        inSlope: .352200836
+        outSlope: .352200836
+        tangentMode: 0
+      - time: .541666687
+        value: .469829291
+        inSlope: -.447214812
+        outSlope: -.447214812
+        tangentMode: 0
+      - time: .791666687
+        value: .372503936
+        inSlope: -.147196472
+        outSlope: -.147196472
+        tangentMode: 0
+      - time: 1.29166663
+        value: .35505417
+        inSlope: .000570774602
+        outSlope: .000570774602
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.107267678
+        inSlope: -.205173731
+        outSlope: -.205173731
+        tangentMode: 0
+      - time: .0833333358
+        value: -.13411878
+        inSlope: -.44895041
+        outSlope: -.44895041
+        tangentMode: 0
+      - time: .291666657
+        value: -.230476186
+        inSlope: -.298544347
+        outSlope: -.298544347
+        tangentMode: 0
+      - time: .541666687
+        value: -.212207869
+        inSlope: .331412911
+        outSlope: .331412911
+        tangentMode: 0
+      - time: .791666687
+        value: -.12925522
+        inSlope: .182669312
+        outSlope: .182669312
+        tangentMode: 0
+      - time: 1.29166663
+        value: -.100854047
+        inSlope: .000921429077
+        outSlope: .000921429077
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .781536639
+        inSlope: -.000554084778
+        outSlope: -.000554084778
+        tangentMode: 0
+      - time: .0833333358
+        value: .779865921
+        inSlope: -.0504248068
+        outSlope: -.0504248068
+        tangentMode: 0
+      - time: .291666657
+        value: .751030803
+        inSlope: -.151325941
+        outSlope: -.151325941
+        tangentMode: 0
+      - time: .541666687
+        value: .76129818
+        inSlope: .146515161
+        outSlope: .146515161
+        tangentMode: 0
+      - time: .791666687
+        value: .780468464
+        inSlope: .015686281
+        outSlope: .015686281
+        tangentMode: 0
+      - time: 1.29166663
+        value: .781493664
+        inSlope: -.000364780775
+        outSlope: -.000364780775
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .555175662
+        inSlope: -.405112296
+        outSlope: -.405112296
+        tangentMode: 0
+      - time: .0416666642
+        value: .529598117
+        inSlope: -.872195005
+        outSlope: -.872195005
+        tangentMode: 0
+      - time: .166666657
+        value: .354998916
+        inSlope: -1.79233146
+        outSlope: -1.79233146
+        tangentMode: 0
+      - time: .291666657
+        value: .117029086
+        inSlope: -1.77886653
+        outSlope: -1.77886653
+        tangentMode: 0
+      - time: .375
+        value: -.0276840236
+        inSlope: -1.8927865
+        outSlope: -1.8927865
+        tangentMode: 0
+      - time: .416666657
+        value: -.110668369
+        inSlope: -1.86198235
+        outSlope: -1.86198235
+        tangentMode: 0
+      - time: .458333343
+        value: -.182849228
+        inSlope: -1.41534472
+        outSlope: -1.41534472
+        tangentMode: 0
+      - time: .541666687
+        value: -.239283577
+        inSlope: .173566729
+        outSlope: .173566729
+        tangentMode: 0
+      - time: .583333373
+        value: -.214149892
+        inSlope: .973997474
+        outSlope: .973997474
+        tangentMode: 0
+      - time: .62500006
+        value: -.158117086
+        inSlope: 3.00141907
+        outSlope: 3.00141907
+        tangentMode: 0
+      - time: .666666687
+        value: .035968218
+        inSlope: 4.60976887
+        outSlope: 4.60976887
+        tangentMode: 0
+      - time: .708333373
+        value: .226030216
+        inSlope: 1.66343975
+        outSlope: 1.66343975
+        tangentMode: 0
+      - time: .75000006
+        value: .174588263
+        inSlope: -.238150358
+        outSlope: -.238150358
+        tangentMode: 0
+      - time: .791666687
+        value: .206184298
+        inSlope: 2.31529093
+        outSlope: 2.31529093
+        tangentMode: 0
+      - time: .833333373
+        value: .367529213
+        inSlope: 3.35236406
+        outSlope: 3.35236406
+        tangentMode: 0
+      - time: .87500006
+        value: .485548109
+        inSlope: 1.70156646
+        outSlope: 1.70156646
+        tangentMode: 0
+      - time: .916666687
+        value: .509326458
+        inSlope: .533482909
+        outSlope: .533482909
+        tangentMode: 0
+      - time: 1.16666663
+        value: .567623913
+        inSlope: .00523854233
+        outSlope: .00523854233
+        tangentMode: 0
+      - time: 1.20833337
+        value: .567489624
+        inSlope: -.0032229363
+        outSlope: -.0032229363
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .669413805
+        inSlope: .150727287
+        outSlope: .150727287
+        tangentMode: 0
+      - time: .0416666642
+        value: .678107738
+        inSlope: .277215242
+        outSlope: .277215242
+        tangentMode: 0
+      - time: .166666657
+        value: .716476917
+        inSlope: .21030736
+        outSlope: .21030736
+        tangentMode: 0
+      - time: .291666657
+        value: .716216683
+        inSlope: -.213562444
+        outSlope: -.213562444
+        tangentMode: 0
+      - time: .375
+        value: .684001625
+        inSlope: -.699078977
+        outSlope: -.699078977
+        tangentMode: 0
+      - time: .416666657
+        value: .64661473
+        inSlope: -1.06664991
+        outSlope: -1.06664991
+        tangentMode: 0
+      - time: .458333343
+        value: .595114112
+        inSlope: -1.31530237
+        outSlope: -1.31530237
+        tangentMode: 0
+      - time: .541666687
+        value: .483796656
+        inSlope: -1.06350267
+        outSlope: -1.06350267
+        tangentMode: 0
+      - time: .583333373
+        value: .448380947
+        inSlope: -.501111865
+        outSlope: -.501111865
+        tangentMode: 0
+      - time: .62500006
+        value: .442037314
+        inSlope: .5254547
+        outSlope: .5254547
+        tangentMode: 0
+      - time: .666666687
+        value: .492168784
+        inSlope: 1.73566496
+        outSlope: 1.73566496
+        tangentMode: 0
+      - time: .708333373
+        value: .586676061
+        inSlope: 2.47483945
+        outSlope: 2.47483945
+        tangentMode: 0
+      - time: .75000006
+        value: .698405504
+        inSlope: 2.37405205
+        outSlope: 2.37405205
+        tangentMode: 0
+      - time: .791666687
+        value: .784513712
+        inSlope: 1.31562507
+        outSlope: 1.31562507
+        tangentMode: 0
+      - time: .833333373
+        value: .808040857
+        inSlope: .079521358
+        outSlope: .079521358
+        tangentMode: 0
+      - time: .87500006
+        value: .791140497
+        inSlope: -.238012016
+        outSlope: -.238012016
+        tangentMode: 0
+      - time: .916666687
+        value: .788206518
+        inSlope: -.20191355
+        outSlope: -.20191355
+        tangentMode: 0
+      - time: 1.16666663
+        value: .669740558
+        inSlope: -.229197308
+        outSlope: -.229197308
+        tangentMode: 0
+      - time: 1.20833337
+        value: .664661169
+        inSlope: -.121905096
+        outSlope: -.121905096
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0420629084
+        inSlope: -.37808612
+        outSlope: -.37808612
+        tangentMode: 0
+      - time: .0416666642
+        value: .0182905272
+        inSlope: -.808350205
+        outSlope: -.808350205
+        tangentMode: 0
+      - time: .166666657
+        value: -.142677948
+        inSlope: -1.66039324
+        outSlope: -1.66039324
+        tangentMode: 0
+      - time: .291666657
+        value: -.370521247
+        inSlope: -1.81408548
+        outSlope: -1.81408548
+        tangentMode: 0
+      - time: .375
+        value: -.523126006
+        inSlope: -2.00437689
+        outSlope: -2.00437689
+        tangentMode: 0
+      - time: .416666657
+        value: -.611245394
+        inSlope: -2.09012723
+        outSlope: -2.09012723
+        tangentMode: 0
+      - time: .458333343
+        value: -.697303295
+        inSlope: -1.92687082
+        outSlope: -1.92687082
+        tangentMode: 0
+      - time: .541666687
+        value: -.828849316
+        inSlope: -1.13138986
+        outSlope: -1.13138986
+        tangentMode: 0
+      - time: .583333373
+        value: -.86610049
+        inSlope: -.647404134
+        outSlope: -.647404134
+        tangentMode: 0
+      - time: .62500006
+        value: -.882799685
+        inSlope: .0424028337
+        outSlope: .0424028337
+        tangentMode: 0
+      - time: .666666687
+        value: -.862566948
+        inSlope: 1.68046141
+        outSlope: 1.68046141
+        tangentMode: 0
+      - time: .708333373
+        value: -.742761195
+        inSlope: 2.32001376
+        outSlope: 2.32001376
+        tangentMode: 0
+      - time: .75000006
+        value: -.669232368
+        inSlope: 1.89521432
+        outSlope: 1.89521432
+        tangentMode: 0
+      - time: .791666687
+        value: -.584826708
+        inSlope: 2.85926437
+        outSlope: 2.85926437
+        tangentMode: 0
+      - time: .833333373
+        value: -.430960357
+        inSlope: 3.47798872
+        outSlope: 3.47798872
+        tangentMode: 0
+      - time: .87500006
+        value: -.294994175
+        inSlope: 2.57474041
+        outSlope: 2.57474041
+        tangentMode: 0
+      - time: .916666687
+        value: -.216398671
+        inSlope: 1.78202498
+        outSlope: 1.78202498
+        tangentMode: 0
+      - time: 1.16666663
+        value: .0477933139
+        inSlope: .274810165
+        outSlope: .274810165
+        tangentMode: 0
+      - time: 1.20833337
+        value: .0535778552
+        inSlope: .138828725
+        outSlope: .138828725
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.492373765
+        inSlope: -.295009404
+        outSlope: -.295009404
+        tangentMode: 0
+      - time: .0416666642
+        value: -.509275138
+        inSlope: -.536281943
+        outSlope: -.536281943
+        tangentMode: 0
+      - time: .166666657
+        value: -.583334923
+        inSlope: -.407677174
+        outSlope: -.407677174
+        tangentMode: 0
+      - time: .291666657
+        value: -.579699814
+        inSlope: .524919629
+        outSlope: .524919629
+        tangentMode: 0
+      - time: .375
+        value: -.507655919
+        inSlope: 1.29924631
+        outSlope: 1.29924631
+        tangentMode: 0
+      - time: .416666657
+        value: -.442742556
+        inSlope: 1.82936001
+        outSlope: 1.82936001
+        tangentMode: 0
+      - time: .458333343
+        value: -.355209231
+        inSlope: 2.28526831
+        outSlope: 2.28526831
+        tangentMode: 0
+      - time: .541666687
+        value: -.147285327
+        inSlope: 2.37429667
+        outSlope: 2.37429667
+        tangentMode: 0
+      - time: .583333373
+        value: -.0544454642
+        inSlope: 1.96339667
+        outSlope: 1.96339667
+        tangentMode: 0
+      - time: .62500006
+        value: .0163311288
+        inSlope: 1.99254179
+        outSlope: 1.99254179
+        tangentMode: 0
+      - time: .666666687
+        value: .111599624
+        inSlope: 2.56734705
+        outSlope: 2.56734705
+        tangentMode: 0
+      - time: .708333373
+        value: .230276689
+        inSlope: .869479656
+        outSlope: .869479656
+        tangentMode: 0
+      - time: .75000006
+        value: .184056297
+        inSlope: -2.73927689
+        outSlope: -2.73927689
+        tangentMode: 0
+      - time: .791666687
+        value: .0020037652
+        inSlope: -4.15347052
+        outSlope: -4.15347052
+        tangentMode: 0
+      - time: .833333373
+        value: -.162066147
+        inSlope: -2.74246669
+        outSlope: -2.74246669
+        tangentMode: 0
+      - time: .87500006
+        value: -.226535231
+        inSlope: -1.2860527
+        outSlope: -1.2860527
+        tangentMode: 0
+      - time: .916666687
+        value: -.26923719
+        inSlope: -1.03955388
+        outSlope: -1.03955388
+        tangentMode: 0
+      - time: 1.16666663
+        value: -.476410121
+        inSlope: -.297428429
+        outSlope: -.297428429
+        tangentMode: 0
+      - time: 1.20833337
+        value: -.483022243
+        inSlope: -.158690631
+        outSlope: -.158690631
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.493247002
+        inSlope: .147921309
+        outSlope: .147921309
+        tangentMode: 0
+      - time: .208333343
+        value: -.422128052
+        inSlope: .517400205
+        outSlope: .517400205
+        tangentMode: 0
+      - time: .50000006
+        value: -.272854149
+        inSlope: .345704257
+        outSlope: .345704257
+        tangentMode: 0
+      - time: .666666687
+        value: -.249263138
+        inSlope: -.0904140249
+        outSlope: -.0904140249
+        tangentMode: 0
+      - time: .708333373
+        value: -.255619109
+        inSlope: -3.0006969
+        outSlope: -3.0006969
+        tangentMode: 0
+      - time: .75000006
+        value: -.499321342
+        inSlope: -3.30936337
+        outSlope: -3.30936337
+        tangentMode: 0
+      - time: .791666687
+        value: -.531399488
+        inSlope: -.503133357
+        outSlope: -.503133357
+        tangentMode: 0
+      - time: .833333373
+        value: -.541249096
+        inSlope: -.335474789
+        outSlope: -.335474789
+        tangentMode: 0
+      - time: .87500006
+        value: -.559355736
+        inSlope: -.50828594
+        outSlope: -.50828594
+        tangentMode: 0
+      - time: .958333433
+        value: -.604473829
+        inSlope: -.40153423
+        outSlope: -.40153423
+        tangentMode: 0
+      - time: 1
+        value: -.617067456
+        inSlope: -.199560836
+        outSlope: -.199560836
+        tangentMode: 0
+      - time: 1.04166663
+        value: -.621103883
+        inSlope: .602100968
+        outSlope: .602100968
+        tangentMode: 0
+      - time: 1.08333337
+        value: -.566892266
+        inSlope: 1.48175657
+        outSlope: 1.48175657
+        tangentMode: 0
+      - time: 1.125
+        value: -.497624129
+        inSlope: 1.66243684
+        outSlope: 1.66243684
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.343891501
+        inSlope: -.137413487
+        outSlope: -.137413487
+        tangentMode: 0
+      - time: .208333343
+        value: -.412806571
+        inSlope: -.518571794
+        outSlope: -.518571794
+        tangentMode: 0
+      - time: .50000006
+        value: -.586607993
+        inSlope: -.55613935
+        outSlope: -.55613935
+        tangentMode: 0
+      - time: .666666687
+        value: -.661540568
+        inSlope: -.31808579
+        outSlope: -.31808579
+        tangentMode: 0
+      - time: .708333373
+        value: -.67324388
+        inSlope: .573827922
+        outSlope: .573827922
+        tangentMode: 0
+      - time: .75000006
+        value: -.61372155
+        inSlope: 1.91998756
+        outSlope: 1.91998756
+        tangentMode: 0
+      - time: .791666687
+        value: -.513244987
+        inSlope: 3.70337439
+        outSlope: 3.70337439
+        tangentMode: 0
+      - time: .833333373
+        value: -.305107027
+        inSlope: 2.42255259
+        outSlope: 2.42255259
+        tangentMode: 0
+      - time: .87500006
+        value: -.311365515
+        inSlope: -.287728965
+        outSlope: -.287728965
+        tangentMode: 0
+      - time: .958333433
+        value: -.35147512
+        inSlope: -.500904024
+        outSlope: -.500904024
+        tangentMode: 0
+      - time: 1
+        value: -.370826453
+        inSlope: -.330901593
+        outSlope: -.330901593
+        tangentMode: 0
+      - time: 1.04166663
+        value: -.379050225
+        inSlope: .177220434
+        outSlope: .177220434
+        tangentMode: 0
+      - time: 1.08333337
+        value: -.356058031
+        inSlope: .470601439
+        outSlope: .470601439
+        tangentMode: 0
+      - time: 1.125
+        value: -.339833409
+        inSlope: .389391303
+        outSlope: .389391303
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0868979618
+        inSlope: -.136521354
+        outSlope: -.136521354
+        tangentMode: 0
+      - time: .208333343
+        value: -.146729037
+        inSlope: -.400701761
+        outSlope: -.400701761
+        tangentMode: 0
+      - time: .50000006
+        value: -.24463205
+        inSlope: -.178065613
+        outSlope: -.178065613
+        tangentMode: 0
+      - time: .666666687
+        value: -.250857562
+        inSlope: .123238027
+        outSlope: .123238027
+        tangentMode: 0
+      - time: .708333373
+        value: -.243843302
+        inSlope: 3.91848254
+        outSlope: 3.91848254
+        tangentMode: 0
+      - time: .75000006
+        value: .0756828114
+        inSlope: 3.36970162
+        outSlope: 3.36970162
+        tangentMode: 0
+      - time: .791666687
+        value: .0369653665
+        inSlope: -2.09834957
+        outSlope: -2.09834957
+        tangentMode: 0
+      - time: .833333373
+        value: -.0991796777
+        inSlope: -1.50081694
+        outSlope: -1.50081694
+        tangentMode: 0
+      - time: .87500006
+        value: -.0881027728
+        inSlope: .528658748
+        outSlope: .528658748
+        tangentMode: 0
+      - time: .958333433
+        value: -.0141056413
+        inSlope: .911193907
+        outSlope: .911193907
+        tangentMode: 0
+      - time: 1
+        value: .0208080579
+        inSlope: .595754862
+        outSlope: .595754862
+        tangentMode: 0
+      - time: 1.04166663
+        value: .0355405472
+        inSlope: -.530927837
+        outSlope: -.530927837
+        tangentMode: 0
+      - time: 1.08333337
+        value: -.0234360583
+        inSlope: -1.42052579
+        outSlope: -1.42052579
+        tangentMode: 0
+      - time: 1.125
+        value: -.0828366652
+        inSlope: -1.42561591
+        outSlope: -1.42561591
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .794365227
+        inSlope: .0204889756
+        outSlope: .0204889756
+        tangentMode: 0
+      - time: .208333343
+        value: .793642998
+        inSlope: -.0701336861
+        outSlope: -.0701336861
+        tangentMode: 0
+      - time: .50000006
+        value: .722216606
+        inSlope: -.379713625
+        outSlope: -.379713625
+        tangentMode: 0
+      - time: .666666687
+        value: .6612885
+        inSlope: -.305038095
+        outSlope: -.305038095
+        tangentMode: 0
+      - time: .708333373
+        value: .649570644
+        inSlope: -.6529724
+        outSlope: -.6529724
+        tangentMode: 0
+      - time: .75000006
+        value: .606874108
+        inSlope: .280251801
+        outSlope: .280251801
+        tangentMode: 0
+      - time: .791666687
+        value: .672924876
+        inSlope: 2.04454947
+        outSlope: 2.04454947
+        tangentMode: 0
+      - time: .833333373
+        value: .777253211
+        inSlope: 1.08280087
+        outSlope: 1.08280087
+        tangentMode: 0
+      - time: .87500006
+        value: .763158321
+        inSlope: -.443241298
+        outSlope: -.443241298
+        tangentMode: 0
+      - time: .958333433
+        value: .714757144
+        inSlope: -.558853269
+        outSlope: -.558853269
+        tangentMode: 0
+      - time: 1
+        value: .693745315
+        inSlope: -.356536001
+        outSlope: -.356536001
+        tangentMode: 0
+      - time: 1.04166663
+        value: .685045838
+        inSlope: .585057735
+        outSlope: .585057735
+        tangentMode: 0
+      - time: 1.08333337
+        value: .742500246
+        inSlope: 1.30431747
+        outSlope: 1.30431747
+        tangentMode: 0
+      - time: 1.125
+        value: .793739021
+        inSlope: 1.2297318
+        outSlope: 1.2297318
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0286383461
+        inSlope: -.0721209049
+        outSlope: -.0721209049
+        tangentMode: 0
+      - time: .333333343
+        value: -.0384043902
+        inSlope: -.288797796
+        outSlope: -.288797796
+        tangentMode: 0
+      - time: .62500006
+        value: -.102482244
+        inSlope: -.0681883618
+        outSlope: -.0681883618
+        tangentMode: 0
+      - time: .75000006
+        value: -.0861368105
+        inSlope: .359430432
+        outSlope: .359430432
+        tangentMode: 0
+      - time: .916666687
+        value: -.0230261162
+        inSlope: .238964587
+        outSlope: .238964587
+        tangentMode: 0
+      - time: 1.125
+        value: .000829663768
+        inSlope: .0227034595
+        outSlope: .0227034595
+        tangentMode: 0
+      - time: 1.41666663
+        value: .00468351319
+        inSlope: .00961726811
+        outSlope: .00961726811
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0179762039
+        inSlope: .0489577018
+        outSlope: .0489577018
+        tangentMode: 0
+      - time: .333333343
+        value: .0509776361
+        inSlope: .092081964
+        outSlope: .092081964
+        tangentMode: 0
+      - time: .62500006
+        value: .0629241988
+        inSlope: .00466713263
+        outSlope: .00466713263
+        tangentMode: 0
+      - time: .75000006
+        value: .0582760945
+        inSlope: -.115459308
+        outSlope: -.115459308
+        tangentMode: 0
+      - time: .916666687
+        value: .0263438113
+        inSlope: -.189328745
+        outSlope: -.189328745
+        tangentMode: 0
+      - time: 1.125
+        value: -.00214149849
+        inSlope: -.0215659905
+        outSlope: -.0215659905
+        tangentMode: 0
+      - time: 1.41666663
+        value: -.00203644601
+        inSlope: .00888156984
+        outSlope: .00888156984
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0598298013
+        inSlope: .164227799
+        outSlope: .164227799
+        tangentMode: 0
+      - time: .333333343
+        value: .201333418
+        inSlope: .565692067
+        outSlope: .565692067
+        tangentMode: 0
+      - time: .62500006
+        value: .320271522
+        inSlope: .120704398
+        outSlope: .120704398
+        tangentMode: 0
+      - time: .75000006
+        value: .286273897
+        inSlope: -.762977839
+        outSlope: -.762977839
+        tangentMode: 0
+      - time: .916666687
+        value: .135575399
+        inSlope: -.702609539
+        outSlope: -.702609539
+        tangentMode: 0
+      - time: 1.125
+        value: .039670039
+        inSlope: -.0697764829
+        outSlope: -.0697764829
+        tangentMode: 0
+      - time: 1.41666663
+        value: .0389272422
+        inSlope: .0224057343
+        outSlope: .0224057343
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .997617066
+        inSlope: -.00957361795
+        outSlope: -.00957361795
+        tangentMode: 0
+      - time: .333333343
+        value: .977441192
+        inSlope: -.132589802
+        outSlope: -.132589802
+        tangentMode: 0
+      - time: .62500006
+        value: .939661682
+        inSlope: -.048431389
+        outSlope: -.048431389
+        tangentMode: 0
+      - time: .75000006
+        value: .952487111
+        inSlope: .263367236
+        outSlope: .263367236
+        tangentMode: 0
+      - time: .916666687
+        value: .990149021
+        inSlope: .109343983
+        outSlope: .109343983
+        tangentMode: 0
+      - time: 1.125
+        value: .999210238
+        inSlope: .00293827336
+        outSlope: .00293827336
+        tangentMode: 0
+      - time: 1.41666663
+        value: .999233007
+        inSlope: -.000995953917
+        outSlope: -.000995953917
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0689595863
+        inSlope: -.102207728
+        outSlope: -.102207728
+        tangentMode: 0
+      - time: .208333343
+        value: -.13656868
+        inSlope: -.406700969
+        outSlope: -.406700969
+        tangentMode: 0
+      - time: .416666657
+        value: -.150218248
+        inSlope: .374462426
+        outSlope: .374462426
+        tangentMode: 0
+      - time: .666666687
+        value: -.033187937
+        inSlope: .211594626
+        outSlope: .211594626
+        tangentMode: 0
+      - time: .87500006
+        value: -.0347347744
+        inSlope: -.0679788589
+        outSlope: -.0679788589
+        tangentMode: 0
+      - time: 1.375
+        value: -.0689595863
+        inSlope: -.010928045
+        outSlope: -.010928045
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .868684351
+        inSlope: -.0116558084
+        outSlope: -.0116558084
+        tangentMode: 0
+      - time: .208333343
+        value: .858188868
+        inSlope: -.0804619715
+        outSlope: -.0804619715
+        tangentMode: 0
+      - time: .416666657
+        value: .855291843
+        inSlope: .078962788
+        outSlope: .078962788
+        tangentMode: 0
+      - time: .666666687
+        value: .871688485
+        inSlope: .0150425527
+        outSlope: .0150425527
+        tangentMode: 0
+      - time: .87500006
+        value: .871602178
+        inSlope: -.00443530222
+        outSlope: -.00443530222
+        tangentMode: 0
+      - time: 1.375
+        value: .868684351
+        inSlope: -.00114870176
+        outSlope: -.00114870176
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0384292789
+        inSlope: -.0645133927
+        outSlope: -.0645133927
+        tangentMode: 0
+      - time: .208333343
+        value: -.0807498768
+        inSlope: -.252304643
+        outSlope: -.252304643
+        tangentMode: 0
+      - time: .416666657
+        value: -.0894709975
+        inSlope: .225629359
+        outSlope: .225629359
+        tangentMode: 0
+      - time: .666666687
+        value: -.0178879537
+        inSlope: .131242007
+        outSlope: .131242007
+        tangentMode: 0
+      - time: .87500006
+        value: -.0186011642
+        inSlope: -.0395412259
+        outSlope: -.0395412259
+        tangentMode: 0
+      - time: 1.375
+        value: -.0384292789
+        inSlope: -.00630829344
+        outSlope: -.00630829344
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .48903513
+        inSlope: .000591516553
+        outSlope: .000591516553
+        tangentMode: 0
+      - time: .208333343
+        value: .488201112
+        inSlope: -.0126882782
+        outSlope: -.0126882782
+        tangentMode: 0
+      - time: .416666657
+        value: .487755388
+        inSlope: .0151627045
+        outSlope: .0151627045
+        tangentMode: 0
+      - time: .666666687
+        value: .488607973
+        inSlope: -.00523603242
+        outSlope: -.00523603242
+        tangentMode: 0
+      - time: .87500006
+        value: .488627791
+        inSlope: .00153064774
+        outSlope: .00153064774
+        tangentMode: 0
+      - time: 1.375
+        value: .48903513
+        inSlope: 1.35898717e-05
+        outSlope: 1.35898717e-05
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0318507999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.41666663
+        value: -.0318507962
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -4.72831162e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.41666663
+        value: -4.72831162e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 3.30917409e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.41666663
+        value: 3.30917388e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0740553886
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.29166663
+        value: -.0740553886
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.87350139e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.29166663
+        value: -1.87350139e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 8.83191907e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.29166663
+        value: 8.83191907e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .011135295
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20833325
+        value: .011135295
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .00410335092
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20833325
+        value: .00410335092
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0297978465
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20833325
+        value: -.0297978465
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0773479864
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.125
+        value: -.0773479864
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -2.6090241e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.125
+        value: -2.6090241e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.13474012e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.125
+        value: -1.13474012e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0285495464
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.41666663
+        value: -.0285495482
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -2.00447286e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.41666663
+        value: -2.0044727e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.2351231e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.41666663
+        value: -1.2351231e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .000371647649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.375
+        value: .000371647649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0120169483
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.375
+        value: .0120169483
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .00145425333
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.375
+        value: .00145425333
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .833333373
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: Demon:Spine_base/Demon:Weist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .833333373
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: Demon:Spine_base/Demon:Weist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .833333373
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: Demon:Spine_base/Demon:Weist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.41666663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.41666663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.41666663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.29166663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.29166663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.29166663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20833337
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20833337
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20833337
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.125
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.125
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.125
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.41666663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.41666663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.41666663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.375
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.375
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.375
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 354.269775
+        inSlope: -1.58148193
+        outSlope: -1.58148193
+        tangentMode: 0
+      - time: .333333343
+        value: 353.615173
+        inSlope: -.388092041
+        outSlope: -.388092041
+        tangentMode: 0
+      - time: .666666687
+        value: 353.248291
+        inSlope: -1.45376587
+        outSlope: -1.47985768
+        tangentMode: 0
+      - time: .75000006
+        value: 353.431549
+        inSlope: 9.68224621
+        outSlope: 9.68225288
+        tangentMode: 0
+      - time: .833333373
+        value: 354.320404
+        inSlope: 8.1024189
+        outSlope: 8.1024189
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Demon:Spine_base/Demon:Weist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 122.8769
+        inSlope: 3.00215149
+        outSlope: 3.00215149
+        tangentMode: 0
+      - time: .333333343
+        value: 124.575333
+        inSlope: 2.42440796
+        outSlope: 2.42440796
+        tangentMode: 0
+      - time: .666666687
+        value: 124.358261
+        inSlope: -1.42190552
+        outSlope: -1.39416432
+        tangentMode: 0
+      - time: .75000006
+        value: 123.86422
+        inSlope: -13.7922297
+        outSlope: -13.7922392
+        tangentMode: 0
+      - time: .833333373
+        value: 122.789978
+        inSlope: -8.45343208
+        outSlope: -8.45343208
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Demon:Spine_base/Demon:Weist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 315.977875
+        inSlope: -20.6446838
+        outSlope: -20.6446838
+        tangentMode: 0
+      - time: .333333343
+        value: 304.790192
+        inSlope: -15.1592102
+        outSlope: -15.1592102
+        tangentMode: 0
+      - time: .666666687
+        value: 309.259247
+        inSlope: 25.7934265
+        outSlope: 25.7936897
+        tangentMode: 0
+      - time: .75000006
+        value: 312.455231
+        inSlope: 58.4131813
+        outSlope: 58.4132233
+        tangentMode: 0
+      - time: .833333373
+        value: 316.587372
+        inSlope: 32.8293533
+        outSlope: 32.8293533
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Demon:Spine_base/Demon:Weist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 2.44024301
+        inSlope: 94.5812912
+        outSlope: 94.5812912
+        tangentMode: 0
+      - time: .125
+        value: 15.7150927
+        inSlope: 8.9227066
+        outSlope: 8.9227066
+        tangentMode: 0
+      - time: .25
+        value: 5.34074163
+        inSlope: -99.0611572
+        outSlope: -98.916481
+        tangentMode: 0
+      - time: .50000006
+        value: 355.660034
+        inSlope: 4.50219631
+        outSlope: 4.50251198
+        tangentMode: 0
+      - time: .791666687
+        value: 1.9875617
+        inSlope: 47.7706032
+        outSlope: 47.7825394
+        tangentMode: 0
+      - time: .958333433
+        value: 15.3299246
+        inSlope: 74.3705597
+        outSlope: 74.370636
+        tangentMode: 0
+      - time: 1.125
+        value: 16.592226
+        inSlope: -51.0839844
+        outSlope: -51.0737915
+        tangentMode: 0
+      - time: 1.375
+        value: .628426671
+        inSlope: -28.8251953
+        outSlope: -28.8369408
+        tangentMode: 0
+      - time: 1.41666663
+        value: 359.975464
+        inSlope: -15.6709137
+        outSlope: -15.6709137
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 32.4939308
+        inSlope: -.19921875
+        outSlope: -.19921875
+        tangentMode: 0
+      - time: .125
+        value: 32.299057
+        inSlope: -.205810547
+        outSlope: -.205810547
+        tangentMode: 0
+      - time: .25
+        value: 32.4738007
+        inSlope: .146850586
+        outSlope: -.0827636495
+        tangentMode: 0
+      - time: .50000006
+        value: 32.4750862
+        inSlope: -.392211825
+        outSlope: -.392055035
+        tangentMode: 0
+      - time: .791666687
+        value: 32.4649811
+        inSlope: 1.91083658
+        outSlope: 1.97753811
+        tangentMode: 0
+      - time: .958333433
+        value: 32.728672
+        inSlope: -1.50457692
+        outSlope: -1.50457859
+        tangentMode: 0
+      - time: 1.125
+        value: 32.6977501
+        inSlope: 1.15960765
+        outSlope: 1.11676025
+        tangentMode: 0
+      - time: 1.375
+        value: 32.5124359
+        inSlope: -1.6505127
+        outSlope: -1.56115866
+        tangentMode: 0
+      - time: 1.41666663
+        value: 32.4749489
+        inSlope: -.921753824
+        outSlope: -.921753824
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 61.9336319
+        inSlope: -7.43811035
+        outSlope: -7.43811035
+        tangentMode: 0
+      - time: .125
+        value: 61.3719978
+        inSlope: .263671875
+        outSlope: .263671875
+        tangentMode: 0
+      - time: .25
+        value: 61.8299561
+        inSlope: 6.39770508
+        outSlope: 6.386168
+        tangentMode: 0
+      - time: .50000006
+        value: 62.3900299
+        inSlope: -.163696244
+        outSlope: -.163853258
+        tangentMode: 0
+      - time: .791666687
+        value: 62.0768623
+        inSlope: -3.93985486
+        outSlope: -3.96908379
+        tangentMode: 0
+      - time: .958333433
+        value: 60.4127197
+        inSlope: -8.29632187
+        outSlope: -8.29633045
+        tangentMode: 0
+      - time: 1.125
+        value: 60.1715126
+        inSlope: 3.09594917
+        outSlope: 3.07159424
+        tangentMode: 0
+      - time: 1.375
+        value: 62.055542
+        inSlope: 5.15130615
+        outSlope: 5.12402821
+        tangentMode: 0
+      - time: 1.41666663
+        value: 62.1761093
+        inSlope: 2.90039349
+        outSlope: 2.90039349
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 58.6849403
+        inSlope: -12.4881592
+        outSlope: -12.4881592
+        tangentMode: 0
+      - time: .0833333358
+        value: 57.0329094
+        inSlope: -27.6328125
+        outSlope: -27.4047394
+        tangentMode: 0
+      - time: .291666657
+        value: 51.2819977
+        inSlope: -15.9851093
+        outSlope: -15.8893414
+        tangentMode: 0
+      - time: .541666687
+        value: 52.9565544
+        inSlope: 25.8964195
+        outSlope: 25.8964233
+        tangentMode: 0
+      - time: .791666687
+        value: 58.6094475
+        inSlope: 6.05969238
+        outSlope: 6.04467869
+        tangentMode: 0
+      - time: 1.29166663
+        value: 59.074543
+        inSlope: -.0403747596
+        outSlope: -.0403747596
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 61.9439316
+        inSlope: 1.06512451
+        outSlope: 1.06512451
+        tangentMode: 0
+      - time: .0833333358
+        value: 62.3700943
+        inSlope: 12.5299072
+        outSlope: 13.6727066
+        tangentMode: 0
+      - time: .291666657
+        value: 67.9978943
+        inSlope: 27.039114
+        outSlope: 27.0985069
+        tangentMode: 0
+      - time: .541666687
+        value: 65.5632629
+        inSlope: -31.9341393
+        outSlope: -31.9341431
+        tangentMode: 0
+      - time: .791666687
+        value: 61.1063881
+        inSlope: .725646973
+        outSlope: 1.00231946
+        tangentMode: 0
+      - time: 1.29166663
+        value: 61.9323196
+        inSlope: .226776153
+        outSlope: .226776153
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 21.6583958
+        inSlope: -37.6292725
+        outSlope: -37.6292725
+        tangentMode: 0
+      - time: .0833333358
+        value: 16.8914757
+        inSlope: -76.456604
+        outSlope: -75.5173874
+        tangentMode: 0
+      - time: .291666657
+        value: 1.75846159
+        inSlope: -43.4364281
+        outSlope: -43.4055138
+        tangentMode: 0
+      - time: .541666687
+        value: 4.41965103
+        inSlope: 49.6717453
+        outSlope: 49.6717529
+        tangentMode: 0
+      - time: .791666687
+        value: 17.8553524
+        inSlope: 31.2564697
+        outSlope: 31.4783058
+        tangentMode: 0
+      - time: 1.29166663
+        value: 22.850153
+        inSlope: .254058868
+        outSlope: .254058868
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:L_shoulder/Demon:L_Elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 322.936493
+        inSlope: 41.436039
+        outSlope: 41.436039
+        tangentMode: 0
+      - time: .0416666642
+        value: 325.651276
+        inSlope: 97.9123611
+        outSlope: 100.676521
+        tangentMode: 0
+      - time: .166666657
+        value: 347.894287
+        inSlope: 250.683853
+        outSlope: 250.683838
+        tangentMode: 0
+      - time: .291666657
+        value: 23.2699337
+        inSlope: 285.775696
+        outSlope: 286.88266
+        tangentMode: 0
+      - time: .375
+        value: 48.051506
+        inSlope: 328.713104
+        outSlope: 332.740814
+        tangentMode: 0
+      - time: .416666657
+        value: 62.6823311
+        inSlope: 318.529694
+        outSlope: 318.530579
+        tangentMode: 0
+      - time: .458333343
+        value: 73.7090225
+        inSlope: 59.4294167
+        outSlope: -8.94781399
+        tangentMode: 0
+      - time: .541666687
+        value: 60.7475357
+        inSlope: -228.180511
+        outSlope: -226.600601
+        tangentMode: 0
+      - time: .583333373
+        value: 53.1305656
+        inSlope: -120.104675
+        outSlope: -120.104675
+        tangentMode: 0
+      - time: .62500006
+        value: 50.8319054
+        inSlope: 70.3684998
+        outSlope: 70.3685989
+        tangentMode: 0
+      - time: .666666687
+        value: 58.99086
+        inSlope: 313.611633
+        outSlope: 313.611176
+        tangentMode: 0
+      - time: .708333373
+        value: 77.3221207
+        inSlope: 391.827209
+        outSlope: 391.827209
+        tangentMode: 0
+      - time: .75000006
+        value: 90
+        inSlope: -537.444336
+        outSlope: -537.445068
+        tangentMode: 0
+      - time: .791666687
+        value: 66.69841
+        inSlope: -631.424438
+        outSlope: -631.424622
+        tangentMode: 0
+      - time: .833333373
+        value: 35.2636032
+        inSlope: -623.560608
+        outSlope: -623.560608
+        tangentMode: 0
+      - time: .87500006
+        value: 14.2868233
+        inSlope: -372.057312
+        outSlope: -372.057861
+        tangentMode: 0
+      - time: .916666687
+        value: 3.83448505
+        inSlope: -243.645126
+        outSlope: -241.254715
+        tangentMode: 0
+      - time: 1.16666663
+        value: 322.781097
+        inSlope: -48.922863
+        outSlope: -49.1483421
+        tangentMode: 0
+      - time: 1.20833337
+        value: 321.724579
+        inSlope: -25.3102551
+        outSlope: -25.3102551
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 230.099716
+        inSlope: 73.1348953
+        outSlope: 73.1348953
+        tangentMode: 0
+      - time: .0416666642
+        value: 234.400284
+        inSlope: 134.08815
+        outSlope: 128.959366
+        tangentMode: 0
+      - time: .166666657
+        value: 253.43721
+        inSlope: 124.23304
+        outSlope: 124.2323
+        tangentMode: 0
+      - time: .291666657
+        value: 266.672333
+        inSlope: 93.2329102
+        outSlope: 89.6890793
+        tangentMode: 0
+      - time: .375
+        value: 275.386475
+        inSlope: 222.521454
+        outSlope: 196.650925
+        tangentMode: 0
+      - time: .416666657
+        value: 287.667999
+        inSlope: 546.41394
+        outSlope: 546.413574
+        tangentMode: 0
+      - time: .458333343
+        value: 323.265839
+        inSlope: 1392.49011
+        outSlope: 1377.71289
+        tangentMode: 0
+      - time: .541666687
+        value: 31.3384533
+        inSlope: 102.014153
+        outSlope: 122.715164
+        tangentMode: 0
+      - time: .583333373
+        value: 32.4716721
+        inSlope: -61.6343689
+        outSlope: -61.6343689
+        tangentMode: 0
+      - time: .62500006
+        value: 27.7016621
+        inSlope: -306.154755
+        outSlope: -306.155212
+        tangentMode: 0
+      - time: .666666687
+        value: 5.32398176
+        inSlope: -528.130859
+        outSlope: -528.130127
+        tangentMode: 0
+      - time: .708333373
+        value: 342.614471
+        inSlope: -518.873047
+        outSlope: -518.873047
+        tangentMode: 0
+      - time: .75000006
+        value: 150.636139
+        inSlope: 2325.9353
+        outSlope: 2325.93652
+        tangentMode: 0
+      - time: .791666687
+        value: 216.992676
+        inSlope: 292.316803
+        outSlope: 292.317474
+        tangentMode: 0
+      - time: .833333373
+        value: 225.132858
+        inSlope: -5.96337605
+        outSlope: -5.96337605
+        tangentMode: 0
+      - time: .87500006
+        value: 221.720093
+        inSlope: -69.0852966
+        outSlope: -69.0853958
+        tangentMode: 0
+      - time: .916666687
+        value: 220.264038
+        inSlope: -17.9132252
+        outSlope: -14.9976234
+        tangentMode: 0
+      - time: 1.16666663
+        value: 227.156967
+        inSlope: 27.1442928
+        outSlope: 25.9584465
+        tangentMode: 0
+      - time: 1.20833337
+        value: 227.769562
+        inSlope: 14.9699421
+        outSlope: 14.9699421
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 61.5329933
+        inSlope: -61.6849403
+        outSlope: -61.6849403
+        tangentMode: 0
+      - time: .0416666642
+        value: 57.928669
+        inSlope: -110.654305
+        outSlope: -105.220467
+        tangentMode: 0
+      - time: .166666657
+        value: 43.6705208
+        inSlope: -66.3640213
+        outSlope: -66.3636475
+        tangentMode: 0
+      - time: .291666657
+        value: 40.5492821
+        inSlope: 45.440918
+        outSlope: 40.840023
+        tangentMode: 0
+      - time: .375
+        value: 47.5535736
+        inSlope: 221.392609
+        outSlope: 195.508347
+        tangentMode: 0
+      - time: .416666657
+        value: 60.1726456
+        inSlope: 577.988647
+        outSlope: 577.990417
+        tangentMode: 0
+      - time: .458333343
+        value: 98.0600662
+        inSlope: 1477.26819
+        outSlope: 1462.28967
+        tangentMode: 0
+      - time: .541666687
+        value: 178.51947
+        inSlope: 310.892731
+        outSlope: 330.33017
+        tangentMode: 0
+      - time: .583333373
+        value: 189.374496
+        inSlope: 187.747467
+        outSlope: 187.747467
+        tangentMode: 0
+      - time: .62500006
+        value: 195.484421
+        inSlope: 125.162781
+        outSlope: 125.161865
+        tangentMode: 0
+      - time: .666666687
+        value: 197.757126
+        inSlope: 65.2643433
+        outSlope: 65.2642517
+        tangentMode: 0
+      - time: .708333373
+        value: 200.502319
+        inSlope: -329.501801
+        outSlope: -329.501801
+        tangentMode: 0
+      - time: .75000006
+        value: 0
+        inSlope: 2083.80664
+        outSlope: 2083.80737
+        tangentMode: 0
+      - time: .791666687
+        value: 54.282238
+        inSlope: 158.759186
+        outSlope: 158.758957
+        tangentMode: 0
+      - time: .833333373
+        value: 63.9641647
+        inSlope: 103.596634
+        outSlope: 103.596634
+        tangentMode: 0
+      - time: .87500006
+        value: 68.5459518
+        inSlope: 43.027935
+        outSlope: 43.0290947
+        tangentMode: 0
+      - time: .916666687
+        value: 67.1459045
+        inSlope: -21.4563198
+        outSlope: -19.1250038
+        tangentMode: 0
+      - time: 1.16666663
+        value: 63.8438377
+        inSlope: -15.2536049
+        outSlope: -13.8877907
+        tangentMode: 0
+      - time: 1.20833337
+        value: 63.5093079
+        inSlope: -8.33860683
+        outSlope: -8.33860683
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 302.509613
+        inSlope: 10.8021965
+        outSlope: 10.8021965
+        tangentMode: 0
+      - time: .208333343
+        value: 307.704132
+        inSlope: 36.3515625
+        outSlope: 36.0294991
+        tangentMode: 0
+      - time: .50000006
+        value: 317.068329
+        inSlope: 17.0802841
+        outSlope: 17.3990517
+        tangentMode: 0
+      - time: .666666687
+        value: 318.579926
+        inSlope: 3.9490366
+        outSlope: 3.07177591
+        tangentMode: 0
+      - time: .708333373
+        value: 318.668274
+        inSlope: 69.3390808
+        outSlope: 69.3390808
+        tangentMode: 0
+      - time: .75000006
+        value: 329.125854
+        inSlope: 29.2390003
+        outSlope: 29.2390423
+        tangentMode: 0
+      - time: .791666687
+        value: 317.371704
+        inSlope: -439.68866
+        outSlope: -439.690216
+        tangentMode: 0
+      - time: .833333373
+        value: 295.591583
+        inSlope: -155.190598
+        outSlope: -155.190598
+        tangentMode: 0
+      - time: .87500006
+        value: 294.684875
+        inSlope: -.0703124702
+        outSlope: 2.77953959
+        tangentMode: 0
+      - time: .958333433
+        value: 299.070862
+        inSlope: 92.2620392
+        outSlope: 89.8398132
+        tangentMode: 0
+      - time: 1
+        value: 302.781342
+        inSlope: 68.0846329
+        outSlope: 68.0845413
+        tangentMode: 0
+      - time: 1.04166663
+        value: 304.510132
+        inSlope: -39.8254776
+        outSlope: -39.8275604
+        tangentMode: 0
+      - time: 1.08333337
+        value: 300.848663
+        inSlope: -14.8315144
+        outSlope: -14.8315573
+        tangentMode: 0
+      - time: 1.125
+        value: 302.191864
+        inSlope: 93.221283
+        outSlope: 93.221283
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 301.022034
+        inSlope: 2.6859374
+        outSlope: 2.6859374
+        tangentMode: 0
+      - time: .208333343
+        value: 299.676544
+        inSlope: -27.2157707
+        outSlope: -27.7825356
+        tangentMode: 0
+      - time: .50000006
+        value: 282.854004
+        inSlope: -77.1450424
+        outSlope: -77.5601959
+        tangentMode: 0
+      - time: .666666687
+        value: 270.035461
+        inSlope: -70.9217072
+        outSlope: -71.1078796
+        tangentMode: 0
+      - time: .708333373
+        value: 267.160583
+        inSlope: -266.789673
+        outSlope: -266.789673
+        tangentMode: 0
+      - time: .75000006
+        value: 252.929459
+        inSlope: 32.4063568
+        outSlope: 32.4042053
+        tangentMode: 0
+      - time: .791666687
+        value: 262.847412
+        inSlope: 444.480896
+        outSlope: 444.478058
+        tangentMode: 0
+      - time: .833333373
+        value: 301.846497
+        inSlope: 739.480591
+        outSlope: 739.480591
+        tangentMode: 0
+      - time: .87500006
+        value: 295.583923
+        inSlope: -227.331192
+        outSlope: -226.964249
+        tangentMode: 0
+      - time: .958333433
+        value: 272.61319
+        inSlope: -186.198395
+        outSlope: -194.610077
+        tangentMode: 0
+      - time: 1
+        value: 266.127228
+        inSlope: -91.9557877
+        outSlope: -91.9556503
+        tangentMode: 0
+      - time: 1.04166663
+        value: 264.032806
+        inSlope: 163.259186
+        outSlope: 163.258728
+        tangentMode: 0
+      - time: 1.08333337
+        value: 281.668945
+        inSlope: 473.832825
+        outSlope: 473.832001
+        tangentMode: 0
+      - time: 1.125
+        value: 300.921875
+        inSlope: 411.934967
+        outSlope: 411.934967
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 21.981144
+        inSlope: -28.0656719
+        outSlope: -28.0656719
+        tangentMode: 0
+      - time: .208333343
+        value: 10.8967314
+        inSlope: -65.9403763
+        outSlope: -65.5692215
+        tangentMode: 0
+      - time: .50000006
+        value: 357.398071
+        inSlope: -14.1638861
+        outSlope: -13.6186552
+        tangentMode: 0
+      - time: .666666687
+        value: 359.84848
+        inSlope: 45.1675529
+        outSlope: 45.3603287
+        tangentMode: 0
+      - time: .708333373
+        value: 2.0912478
+        inSlope: 702.896118
+        outSlope: 702.896118
+        tangentMode: 0
+      - time: .75000006
+        value: 55.1951904
+        inSlope: 549.995117
+        outSlope: 549.995911
+        tangentMode: 0
+      - time: .791666687
+        value: 53.9975243
+        inSlope: -233.584946
+        outSlope: -233.58461
+        tangentMode: 0
+      - time: .833333373
+        value: 24.0597095
+        inSlope: -632.878113
+        outSlope: -632.878113
+        tangentMode: 0
+      - time: .87500006
+        value: 30.8019485
+        inSlope: 248.022827
+        outSlope: 247.657532
+        tangentMode: 0
+      - time: .958333433
+        value: 56.4089279
+        inSlope: 215.935623
+        outSlope: 224.269943
+        tangentMode: 0
+      - time: 1
+        value: 63.9716988
+        inSlope: 110.188461
+        outSlope: 110.188309
+        tangentMode: 0
+      - time: 1.04166663
+        value: 66.4976196
+        inSlope: -192.628967
+        outSlope: -192.628418
+        tangentMode: 0
+      - time: 1.08333337
+        value: 46.0052719
+        inSlope: -554.595398
+        outSlope: -554.594788
+        tangentMode: 0
+      - time: 1.125
+        value: 22.8310127
+        inSlope: -506.421875
+        outSlope: -506.421875
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 3.15235543
+        inSlope: -9.05822754
+        outSlope: -9.05822754
+        tangentMode: 0
+      - time: .333333343
+        value: 354.513947
+        inSlope: -37.2409058
+        outSlope: -37.2740936
+        tangentMode: 0
+      - time: .62500006
+        value: 346.531952
+        inSlope: -7.97513103
+        outSlope: -8.00317383
+        tangentMode: 0
+      - time: .75000006
+        value: 348.611847
+        inSlope: 46.5270996
+        outSlope: 46.5754509
+        tangentMode: 0
+      - time: .916666687
+        value: 356.976715
+        inSlope: 31.2797318
+        outSlope: 31.0970249
+        tangentMode: 0
+      - time: 1.125
+        value: .104732364
+        inSlope: 2.66901875
+        outSlope: 2.66434193
+        tangentMode: 0
+      - time: 1.41666663
+        value: .54536736
+        inSlope: 1.06410456
+        outSlope: 1.06410456
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 2.25543499
+        inSlope: 5.45196533
+        outSlope: 5.45196533
+        tangentMode: 0
+      - time: .333333343
+        value: 4.85178852
+        inSlope: -1.68406677
+        outSlope: -1.38616049
+        tangentMode: 0
+      - time: .62500006
+        value: 3.10111976
+        inSlope: -3.88994431
+        outSlope: -3.82580566
+        tangentMode: 0
+      - time: .75000006
+        value: 3.60835719
+        inSlope: 6.51049805
+        outSlope: 5.97793722
+        tangentMode: 0
+      - time: .916666687
+        value: 2.63590837
+        inSlope: -16.9214211
+        outSlope: -17.2149181
+        tangentMode: 0
+      - time: 1.125
+        value: 359.758545
+        inSlope: -2.38623071
+        outSlope: -2.39125323
+        tangentMode: 0
+      - time: 1.41666663
+        value: 359.787689
+        inSlope: 1.07446301
+        outSlope: 1.07446301
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 6.92621422
+        inSlope: 18.7833252
+        outSlope: 18.7833252
+        tangentMode: 0
+      - time: .333333343
+        value: 23.0454178
+        inSlope: 65.2730713
+        outSlope: 65.2477951
+        tangentMode: 0
+      - time: .62500006
+        value: 37.2757683
+        inSlope: 15.2680111
+        outSlope: 15.239502
+        tangentMode: 0
+      - time: .75000006
+        value: 33.0968323
+        inSlope: -91.8204346
+        outSlope: -91.6718674
+        tangentMode: 0
+      - time: .916666687
+        value: 15.5238218
+        inSlope: -80.5075607
+        outSlope: -80.5333099
+        tangentMode: 0
+      - time: 1.125
+        value: 4.54683638
+        inSlope: -8.01430702
+        outSlope: -8.01578331
+        tangentMode: 0
+      - time: 1.41666663
+        value: 4.46089125
+        inSlope: 2.57409692
+        outSlope: 2.57409692
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:R_shoulder/Demon:R_elbow/Demon:R_wrist/Demon:R_hand
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 359.960938
+        inSlope: .63193357
+        outSlope: .63193357
+        tangentMode: 0
+      - time: .208333343
+        value: .300880581
+        inSlope: 1.38603508
+        outSlope: 1.38603532
+        tangentMode: 0
+      - time: .416666657
+        value: .372889102
+        inSlope: -.735644579
+        outSlope: -.755493045
+        tangentMode: 0
+      - time: .666666687
+        value: 359.928589
+        inSlope: -1.2396239
+        outSlope: -1.23530245
+        tangentMode: 0
+      - time: .87500006
+        value: 359.912933
+        inSlope: .125683576
+        outSlope: .122131363
+        tangentMode: 0
+      - time: 1.375
+        value: 359.960938
+        inSlope: .0102539072
+        outSlope: .0102539072
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.x
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 121.24749
+        inSlope: -.767724574
+        outSlope: -.767724574
+        tangentMode: 0
+      - time: .208333343
+        value: 120.682823
+        inSlope: -3.77665997
+        outSlope: -3.77666044
+        tangentMode: 0
+      - time: .416666657
+        value: 120.543335
+        inSlope: 3.28051782
+        outSlope: 3.27539015
+        tangentMode: 0
+      - time: .666666687
+        value: 121.458763
+        inSlope: 1.36926258
+        outSlope: 1.37373018
+        tangentMode: 0
+      - time: .87500006
+        value: 121.452682
+        inSlope: -.400781184
+        outSlope: -.401550353
+        tangentMode: 0
+      - time: 1.375
+        value: 121.24749
+        inSlope: -.0665588453
+        outSlope: -.0665588453
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.y
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 350.944275
+        inSlope: -13.8783684
+        outSlope: -13.8783684
+        tangentMode: 0
+      - time: .208333343
+        value: 341.744659
+        inSlope: -55.4862289
+        outSlope: -55.4862366
+        tangentMode: 0
+      - time: .416666657
+        value: 339.864075
+        inSlope: 50.8359413
+        outSlope: 50.8293381
+        tangentMode: 0
+      - time: .666666687
+        value: 355.67926
+        inSlope: 28.520504
+        outSlope: 28.5226994
+        tangentMode: 0
+      - time: .87500006
+        value: 355.484528
+        inSlope: -9.01713657
+        outSlope: -9.01702976
+        tangentMode: 0
+      - time: 1.375
+        value: 350.944275
+        inSlope: -1.45019543
+        outSlope: -1.45019543
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAngles.z
+    path: Demon:Spine_base/Demon:Weist/Demon:Spine_2/Demon:Spine_3/Demon:neck
+    classID: 4
+    script: {fileID: 0}
+  m_Events: []

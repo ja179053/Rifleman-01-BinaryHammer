@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 56803740dcd745b46996d09f691c850d
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ambientLight1
+    100002: //RootNode
+    100004: Demon:curve1
+    100006: Demon:curve2
+    100008: Demon:curve3
+    100010: Demon:curve4
+    100012: Demon:pCube3
+    100014: Demon:polySurface1
+    100016: Demon:polySurface2
+    100018: Demon:polySurface2 1
+    100020: Demon:pSphere12
+    100022: Demon:pSphere13
+    100024: Demon:pSphere14
+    100026: Demon:pSphere15
+    100028: Demon:transform1
+    100030: Demon:transform2
+    100032: Demon:transform5
+    100034: Demon:transform6
+    100036: Demon:transform7
+    100038: directionalLight1
+    100040: group
+    100042: group_Demon:polySurface2
+    100044: group_Demon:transform1
+    100046: group_Demon:transform2
+    100048: persp2
+    400000: ambientLight1
+    400002: //RootNode
+    400004: Demon:curve1
+    400006: Demon:curve2
+    400008: Demon:curve3
+    400010: Demon:curve4
+    400012: Demon:pCube3
+    400014: Demon:polySurface1
+    400016: Demon:polySurface2
+    400018: Demon:polySurface2 1
+    400020: Demon:pSphere12
+    400022: Demon:pSphere13
+    400024: Demon:pSphere14
+    400026: Demon:pSphere15
+    400028: Demon:transform1
+    400030: Demon:transform2
+    400032: Demon:transform5
+    400034: Demon:transform6
+    400036: Demon:transform7
+    400038: directionalLight1
+    400040: group
+    400042: group_Demon:polySurface2
+    400044: group_Demon:transform1
+    400046: group_Demon:transform2
+    400048: persp2
+    2300000: Demon:pSphere15
+    2300002: group_Demon:polySurface2
+    3300000: Demon:pSphere15
+    3300002: group_Demon:polySurface2
+    4300000: Demon:pSphere15
+    4300002: group_Demon:polySurface2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
